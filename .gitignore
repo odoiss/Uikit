@@ -1,0 +1,34 @@
+# Ignorar diretório node_modules
+/node_modules
+
+# Ignorar arquivos de build
+/dist
+/build
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração do editor
+.idea/
+.vscode/
+
+# Ignorar arquivos temporários e de backup
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignorar arquivos SASS e CSS compilados se necessário
+#*.css
+*.css.map
+#*.sass-cache/
+
+# Ignorar arquivos de ambiente
+.env
+
+# Adicione outras regras específicas do seu projeto
+
